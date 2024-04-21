@@ -1,0 +1,10 @@
+there are following commands for for set up of git :
+
+1) git --version to check version
+2) git init   to intallizing for git 
+3) git config --global user.name "Bilal Haider"
+4) git config --global user.email "bilalhaider@gmail.com"
+5) git add .  to Add changes to git 
+6) git commit -m "----name of comments ---- " this is used to commit it on 
+7) git status  to check current status of files git
+8) git log to check the which upload the code in recents
